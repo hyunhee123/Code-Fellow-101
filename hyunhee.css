@@ -1,0 +1,51 @@
+header {
+    background-color: burlywood;
+   
+    
+}
+h1 {
+    color:black; 
+    text-align: center;
+    padding: 20px;
+    border: solid;
+    font-family: 'Lobster', cursive;
+    
+
+}
+.nav{
+    padding-bottom: 12px;
+    margin-left: 27%;
+    
+}
+.nav li {
+    list-style: none;
+    padding: 5px;
+    display: inline;
+    background-color: skyblue;
+    border: 1px solid black;
+}
+a{   
+    text-decoration: none;
+    
+
+}
+
+img.portrait {
+    height: 400px;
+}
+img {
+    height: 300px;
+}
+
+
+
+article {
+    float: left;
+    margin: 20px;
+    width: 30%;
+    border: 10px dashed yellowgreen;
+    padding: 0 5px 0 10px;
+}
+body {
+    background-color: cornsilk;
+}

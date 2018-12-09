@@ -1,0 +1,52 @@
+header {
+    background-color:darkslateblue;
+   
+    
+}
+h1 {
+    color:darkolivegreen; 
+    text-align: center;
+    padding: 20px;
+    border: solid;
+    font-family: 'Bungee', cursive;
+    
+
+}
+.nav{
+    padding-bottom: 12px;
+    margin-left: 19%;
+    
+}
+.nav li {
+    list-style: none;
+    padding: 10px;
+    display: inline;
+    background-color: rgb(14, 109, 30);
+    border: 1px solid black;
+    margin: 20px;
+}
+a{   
+    text-decoration: none;
+    
+
+}
+
+img.portrait {
+    height: 400px;
+}
+img {
+    height: 300px;
+}
+
+
+
+article {
+    float: left;
+    margin: 20px;
+    width: 30%;
+    border: 10px dashed darkorange;
+    padding: 0 5px 0 10px;
+}
+body {
+    background-color: darkseagreen;
+}
